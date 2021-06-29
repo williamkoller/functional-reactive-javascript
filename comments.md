@@ -8,7 +8,7 @@
 
   > estados mutáveis
 
-  >como
+  > como
 
   > maior quantidade de código
 
