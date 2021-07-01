@@ -64,3 +64,7 @@
 
   console.log(`Média é ${mediaTurma}`);
   
+## Paradigmas Funcional
+
+- funções são valores (Fisrt Class Functions)
+- 
