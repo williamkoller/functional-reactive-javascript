@@ -16,4 +16,5 @@ exec(subtrairNoTerminal, 182, 27);
 const r = exec(subtrair, 50, 25);
 console.log(r)
 
-setInterval(() => console.log('Exec...'), 1000);
+const cb = () => console.log('Exec.....');
+setInterval(cb, 1000);
